@@ -1,9 +1,11 @@
 {
   "version": "1.0.5",
   "download_url": "https://github.com/therealthread/",
+  "priority": "LOW",
+  "comment": "This update is optional.",
   "changes": [
-    "deneme1",
-    "deneme2",
-    "denem3"
+    "Simple bugs fixed.",
+    "Placeholder editor became translatable.",
+    "Unnecessary structures have been removed."
   ]
 }
