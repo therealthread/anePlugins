@@ -1,7 +1,8 @@
 {
-  "enabled": true,
+  "enabled": false,
   "info": [
+    "",
     "This plugin has been disabled.",
-    "But for now it is active."
+    ""
   ]
 }
