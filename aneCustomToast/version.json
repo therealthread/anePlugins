@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "version": "1.0.0",
+  "download_url": "https://github.com/therealthread/",
+  "priority": "LOW",
+  "comment": "This update is optional.",
+  "info": [
+      "",
+      "This plugin has been disabled.",
+      ""
+    ],
+  "changes": [
+    "Simple bugs fixed.",
+    "Unnecessary structures have been removed."
+  ]
+}
